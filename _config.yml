@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Instructional Material Website
+email: ivanjacob@google.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Comprehensive instructional material for lathe machine operations,
+  components, and safety guidelines.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,7 +32,40 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
+# Image Settings - Enabled
+image:
+    enabled: true
+
+# Video/Media Settings
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  parse_block_html: true
+
+# Collections for organized content
+collections: 
+  operations:
+    output: true 
+    permalink: /:collection/:name/
+  components:
+    output: true 
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "operations"
+    values:
+      layout: "operation"
+      category: "operations"
+  - scope:
+      path: ""
+      type: "components"
+    values:
+      layout: "component"
+      category: "components"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
