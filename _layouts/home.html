@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>{{ page.title | default: site.title }}</h1>
+    <p class="subtitle">{{ page.description | default: site.description }}</p>
+    <div class="cta-buttons">
+      <a href="{{ '/pages/operations.html' | relative_url }}" class="btn btn-primary">Explore Operations</a>
+      <a href="{{ '/pages/components.html' | relative_url }}" class="btn btn-secondary">View Components</a>
+    </div>
+  </div>
+</div>
+
+<section class="quick-links">
+  <div class="wrapper">
+    <h2>Quick Navigation</h2>
+    <div class="quick-links-grid">
+      <div class="link-card">
+        <h3>📋 Operations</h3>
+        <p>Learn 13 essential lathe operations with animations and step-by-step guides.</p>
+        <a href="{{ '/pages/operations.html' | relative_url }}">View All</a>
+      </div>
+      <div class="link-card">
+        <h3>⚙️ Components</h3>
+        <p>Understand every part of the lathe machine and their functions.</p>
+        <a href="{{ '/pages/components.html' | relative_url }}">View All</a>
+      </div>
+      <div class="link-card">
+        <h3>🔧 Machine Types</h3>
+        <p>Discover different types of lathe machines and their applications.</p>
+        <a href="{{ '/pages/types.html' | relative_url }}">View All</a>
+      </div>
+      <div class="link-card">
+        <h3>🛡️ Safety</h3>
+        <p>Essential safety guidelines and best practices for lathe operation.</p>
+        <a href="{{ '/pages/safety.html' | relative_url }}">View All</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ content }}

@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<article class="post operation">
+  <header class="post-header">
+    <div class="breadcrumb">
+      <a href="{{ '/pages/operations.html' | relative_url }}">Operations</a> / 
+      <span>{{ page.title }}</span>
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.difficulty %}
+      <p class="difficulty">
+        Difficulty: <span class="level-{{ page.difficulty }}">{{ page.difficulty | capitalize }}</span>
+      </p>
+    {% endif %}
+  </header>
+
+  {% if page.animation %}
+    <section class="operation-animation">
+      <h2>Animation</h2>
+      {% include media-embed.html url=page.animation type="gif" alt=page.title %}
+    </section>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.tools %}
+    <section class="tools-required">
+      <h2>Tools & Equipment Required</h2>
+      <ul>
+        {% for tool in page.tools %}
+          <li>{{ tool }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {% if page.related_components %}
+    <section class="related-items">
+      <h2>Related Components</h2>
+      <ul>
+        {% for comp in page.related_components %}
+          <li><a href="{{ '/components/' | append: comp | slugify | append: '/' | relative_url }}">{{ comp }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</article>
+
+<nav class="operation-nav">
+  <a href="{{ '/pages/operations.html' | relative_url }}" class="back-link">← Back to All Operations</a>
+</nav>
