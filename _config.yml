@@ -23,10 +23,11 @@ email: ivanjacobgojar.milan24@bicol-u.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   Comprehensive instructional material for lathe machine operations,
   components, and safety guidelines.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/staticwebsite" # the subpath of your site, e.g. /blog
+url: "https://chivarly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  chivalry
+repository: chivalry/staticwebsite
 
 # Build settings
 theme: minima
