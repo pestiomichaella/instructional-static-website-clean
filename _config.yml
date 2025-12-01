@@ -90,3 +90,8 @@ include:
   - assets/videos
   - assets/models
   - assets/images
+
+
+keep_files:
+  - assets/videos
+  - assets/models
