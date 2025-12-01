@@ -3,9 +3,9 @@ layout: operation
 title: Threading
 order: 6
 difficulty: advanced
-animation: /assets/images/operations/threading/animation.gif
+animation: /assets/models/model.glb
 animation_type: model3d
-video: /assets/videos/operations/Threading.mp4
+video: /assets/videos/operations/threading.mp4
 tools:
   - Threading tool
   - Tool post
