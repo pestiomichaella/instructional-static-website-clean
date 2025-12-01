@@ -20,8 +20,23 @@ related_components:
 
 Threading is a precise operation to create threads on the outer or inner surface of a workpiece. This is achieved by moving a threading tool at a predetermined feed rate along the rotating workpiece, matching the pitch of the desired thread.
 
-{% include media-embed.html url=page.animation type='model3d' alt='Threading Operation Animation' %}
-{% include media-embed.html url=page.video type='video' alt='Threading Operation Video' %}
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 ## Types of Threads
 
 - **External Threads**: Threads on the outside of a shaft
