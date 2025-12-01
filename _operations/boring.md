@@ -18,7 +18,15 @@ related_components:
 
 Boring involves enlarging a hole that has already been drilled or cast. The process is used to achieve greater accuracy in diameter and to attain a smooth internal finish.
 
-{% include media-embed.html url=page.animation type='model3d' alt='Boring Operation Animation' %}
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
 
 ## Purpose of Boring
 
