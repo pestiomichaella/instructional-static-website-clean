@@ -4,6 +4,8 @@ title: Threading
 order: 6
 difficulty: advanced
 animation: /assets/images/operations/threading/animation.gif
+animation_type: model3d
+video: /assets/videos/operations/Threading.mp4
 tools:
   - Threading tool
   - Tool post
@@ -18,6 +20,8 @@ related_components:
 
 Threading is a precise operation to create threads on the outer or inner surface of a workpiece. This is achieved by moving a threading tool at a predetermined feed rate along the rotating workpiece, matching the pitch of the desired thread.
 
+{% include media-embed.html url=page.animation type='model3d' alt='Threading Operation Animation' %}
+{% include media-embed.html url=page.video type='video' alt='Threading Operation Video' %}
 ## Types of Threads
 
 - **External Threads**: Threads on the outside of a shaft
