@@ -4,6 +4,7 @@ title: Taper Turning
 order: 10
 difficulty: advanced
 animation: /assets/images/operations/taper-turning/animation.gif
+video: /assets/videos/operations/taper turning.mp4
 tools:
   - Cutting tool
   - Tool post
@@ -17,6 +18,14 @@ related_components:
 ## Overview
 
 Taper turning is the process of creating a conical shape on a workpiece. This operation is performed by adjusting the tailstock or compound rest at an angle.
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Applications
 

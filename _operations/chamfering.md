@@ -4,6 +4,7 @@ title: Chamfering
 order: 11
 difficulty: beginner
 animation: /assets/images/operations/chamfering/animation.gif
+video: /assets/videos/operations/chamfering.mp4
 tools:
   - Chamfering tool
   - Tool post
@@ -17,6 +18,14 @@ related_components:
 ## Overview
 
 Chamfering involves cutting a bevel or angled edge on the workpiece. On a lathe, this is achieved by positioning the cutting tool at an angle to the workpiece's edge.
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Purpose
 

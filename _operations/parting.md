@@ -4,6 +4,7 @@ title: Parting (Cutting Off)
 order: 5
 difficulty: intermediate
 animation: /assets/images/operations/parting/animation.gif
+video: /assets/videos/operations/parting.mp4
 tools:
   - Parting tool
   - Tool post
@@ -17,6 +18,14 @@ related_components:
 ## Overview
 
 Parting, also known as cutting off, is the process of cutting a piece off a workpiece while it is rotating on a lathe. This operation uses a narrow, blade-like cutting tool positioned perpendicular to the workpiece.
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Applications
 

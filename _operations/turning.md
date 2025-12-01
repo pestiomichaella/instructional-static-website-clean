@@ -4,6 +4,7 @@ title: Turning
 order: 1
 difficulty: beginner
 animation: /assets/images/operations/turning/animation.gif
+video: /assets/videos/operations/turning operation_.mp4
 tools:
   - Chuck or centers
   - Cutting tool
@@ -18,6 +19,14 @@ related_components:
 ## Overview
 
 Turning is the fundamental process of removing material from the outer diameter of a workpiece to produce a cylindrical shape. This is the most common operation performed on a lathe.
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Types of Turning
 

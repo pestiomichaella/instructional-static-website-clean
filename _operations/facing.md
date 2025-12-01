@@ -4,6 +4,7 @@ title: Facing
 order: 2
 difficulty: beginner
 animation: /assets/images/operations/facing/animation.gif
+video: /assets/videos/operations/facing.mp4
 tools:
   - Facing tool (tool bit)
   - Tool post
@@ -17,6 +18,15 @@ related_components:
 ## Overview
 
 Facing involves cutting the end of the workpiece to produce a flat surface. It's often the first operation performed on a lathe to create a clean, flat starting point for further machining.
+
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 ## Purpose of Facing
 
