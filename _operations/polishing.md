@@ -3,7 +3,7 @@ layout: operation
 title: Polishing
 order: 12
 difficulty: beginner
-animation: /assets/images/operations/polishing/animation.gif
+animation: /assets/models/model.glb
 tools:
   - Polishing tool or abrasive
   - Polishing compound
@@ -16,6 +16,16 @@ related_components:
 ## Overview
 
 Polishing on a lathe enhances the surface finish of the workpiece. Using abrasives or polishing tools, the lathe spins the workpiece while the operator holds the polishing material against it.
+
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
 
 ## Applications
 

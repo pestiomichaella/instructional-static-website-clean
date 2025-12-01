@@ -3,7 +3,7 @@ layout: operation
 title: Reaming
 order: 13
 difficulty: intermediate
-animation: /assets/images/operations/reaming/animation.gif
+animation: /assets/models/model.glb
 tools:
   - Reamer tool
   - Tailstock
@@ -17,6 +17,16 @@ related_components:
 ## Overview
 
 Reaming is the process of finishing and sizing a hole to a precise diameter. A reamer tool is slowly fed into a pre-drilled hole while the workpiece rotates.
+
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
 
 ## Purpose
 

@@ -3,7 +3,7 @@ layout: operation
 title: Drilling
 order: 3
 difficulty: beginner
-animation: /assets/images/operations/drilling/animation.gif
+animation: /assets/models/model.glb
 tools:
   - Drill bit
   - Tailstock
@@ -17,6 +17,16 @@ related_components:
 ## Overview
 
 Drilling on a lathe involves creating a round hole in the workpiece, typically using a drill bit secured in the tailstock. This operation allows for precise hole creation in terms of diameter and depth.
+
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
 
 ## Types of Drilling
 
