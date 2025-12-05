@@ -103,6 +103,10 @@
   background-color: rgba(255, 111, 0, 0.2);
 }
 
+.hamburger-menu {
+  display: none;
+}
+
 /* Responsive Design */
 @media (max-width: 992px) {
   .site-title {
@@ -121,10 +125,34 @@
   .nav-list {
     display: block;
     position: static;
+    padding-block: 1rem;
+  }
+
+  .nav-list li {
+    display: none;
+  }
+  
+  .hamburger-menu > div {
+    width: 100%;
+    height: 5px;
+    background-color: black;
+  }
+
+  .hamburger-menu {
+    margin-left: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    display: flex;
+    aspect-ratio: 1;
+    width: 2.5rem;
+    padding-block: .4rem;
+    flex-direction: column;
+    justify-content: space-between;
+    border: none;
+    border-radius: 5px;
   }
 
   .site-nav {
-    position: static;
+    top: 0;
   }
 
 }
@@ -143,7 +171,7 @@
   }
 
   .site-nav {
-    top: 100px;
+    top: 0;
   }
 
   .nav-list {
