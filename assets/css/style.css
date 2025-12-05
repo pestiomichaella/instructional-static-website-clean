@@ -4,3 +4,15 @@ body {
   margin: 0;
   font-family: Roboto, sans-serif;
 }
+
+.page-content-article,
+.post.operation,
+.operation-nav {
+    padding-inline: 1.5rem;
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+.post.operation {
+  margin-top: 2rem;
+}
