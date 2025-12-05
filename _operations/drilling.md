@@ -36,13 +36,14 @@ Drilling on a lathe involves creating a round hole in the workpiece, typically u
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece
-2. Mount drill bit in tailstock
-3. Align drill bit with hole location
-4. Advance tailstock until drill contacts workpiece
-5. Start lathe and set suitable speed
-6. Feed drill into workpiece to drill hole
-7. Retract drill and stop lathe
+1. Center the workpiece in the chuck and face the end if necessary to obtain a flat surface.
+2. Mount a center drill in the tailstock drill chuck and align the tailstock with the spindle axis.
+3. Start the spindle at a moderate speed and advance the center drill to produce a starting center hole.
+4. Replace the center drill with the required twist drill of the specified diameter.
+5. Select a suitable spindle speed and apply cutting fluid, if appropriate.
+6. Advance the drill gradually into the rotating workpiece using the tailstock handwheel, periodically retracting to clear chips.
+7. Continue drilling until the desired depth is reached.
+8. Withdraw the drill completely, stop the machine, and verify the hole depth and diameter.
 
 ## Best Practices
 

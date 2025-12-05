@@ -36,11 +36,13 @@ Grooving involves creating narrow grooves or channels on a workpiece. A specific
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece
-2. Install grooving tool and set height
-3. Turn on lathe and adjust speed
-4. Feed tool to cut narrow groove
-5. Stop lathe and inspect groove
+1. Secure the workpiece in the chuck with the groove location clearly identified or measured.
+2. Install the grooving tool of the required width in the tool post and set the cutting edge at center height.
+3. Select appropriate spindle speed and feed rate based on the material and tool.
+4. Start the spindle and position the tool at the required groove location.
+5. Feed the tool radially into the rotating workpiece in small increments until the desired depth is reached.
+6. If a wider groove is needed, traverse the tool slightly along the workpiece axis to obtain the specified width.
+7. Retract the tool, stop the machine, and verify the groove dimensions using appropriate measuring tools.
 
 ## Important Considerations
 

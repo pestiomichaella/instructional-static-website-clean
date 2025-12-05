@@ -36,12 +36,15 @@ Taper turning is the process of creating a conical shape on a workpiece. This op
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece
-2. Set tailstock or compound rest angle
-3. Install cutting tool
-4. Turn on lathe and set speed
-5. Cut taper by feeding tool diagonally
-6. Complete passes to finish taper
+1. Secure the workpiece in the chuck or between centers and prepare a reference cylindrical surface if necessary.
+2. Calculate the taper angle or half-angle based on the desired taper dimensions.
+3. Swivel/rotate the compound rest to the calculated angle relative to the lathe axis and lock it in position.
+4. Install the appropriate turning tool and set the tool tip at center height.
+5. Select suitable spindle speed and feed rate.
+6. Start the spindle and position the tool at the larger-diameter end of the taper.
+7. Feed the tool along the length of the workpiece using the compound rest, thereby generating the tapered surface.
+8. Make successive passes with gradual infeed until the required taper dimensions and surface finish are achieved.
+9. Stop the machine and verify the taper using measuring instruments such as calipers, micrometers, or a taper gauge.
 
 ## Methods
 

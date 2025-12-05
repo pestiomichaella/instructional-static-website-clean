@@ -46,12 +46,14 @@ Threading is a precise operation to create threads on the outer or inner surface
 
 ## Step-by-Step Procedure
 
-1. Insert threading tool and set height to centerline
-2. Set lathe pitch and spindle speed
-3. Position tool at thread start
-4. Engage synchronized feed for thread pitch
-5. Make repeated passes, increasing depth
-6. Stop lathe and inspect threads
+1. Secure the workpiece in the chuck and prepare the external surface by turning it to the appropriate starting diameter for the thread.
+2. Install the single-point threading tool, ground to the required thread form, and set the cutting edge at center height.
+3. Set the lathe’s quick-change gearbox and leadscrew to the desired thread pitch.
+4. Select a suitable low spindle speed for threading.
+5. Start the spindle and engage the half-nut lever at the correct alignment mark to synchronize the tool with the workpiece.
+6. Make an initial light threading pass to establish the thread path, then retract the tool and reverse or stop the spindle as required.
+7. Increase the depth of cut gradually and repeat threading passes until the desired thread depth is reached.
+8. Check the thread using thread gauges or mating parts, and perform a final light pass if necessary to improve finish and accuracy.
 
 ## Critical Points
 

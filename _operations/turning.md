@@ -41,13 +41,14 @@ Shaping the workpiece into a complex profile using a specially shaped cutting to
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece in chuck or centers
-2. Install proper cutting tool and set to center height
-3. Turn on lathe and set appropriate speed
-4. Move tool to starting position
-5. Engage cutting tool and remove material from outer diameter
-6. Perform successive passes until desired dimension and finish
-7. Turn off lathe and inspect workpiece
+1. Secure the workpiece in the chuck or between centers, ensuring it is properly aligned with the spindle axis.
+2. Install the appropriate turning tool in the tool post and set the cutting edge at the center height of the workpiece.
+3. Select the proper spindle speed, feed rate, and depth of cut accordinig to the workpiece material and tool specifications.
+4. Start the machine and bring the tool gradually into contact with the rotating workpiece.
+5. Perform roughing passes to reduce the workpiece diameter to near the desired size, maintaining a steady feed.
+6. Perform one or more finishing passes with reduced depth of cut and appropriate feed to achieve the required final dimension and surface finish.
+7. Stop the machine and measure the workpiece diameter using suitable measuring instruments (e.g., micrometer).
+8. Make any necessary adjustments and repeat finishing passes if required.
 
 ## Tips for Success
 
