@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: operation
 title: Polishing
 order: 12
@@ -49,4 +49,4 @@ Polishing on a lathe enhances the surface finish of the workpiece. Using abrasiv
 - Apply polishing compound regularly
 - Work systematically across the surface
 - Always move away from the center
-- Never reach across the rotating workpiece
+- Never reach across the rotating workpiece -->
