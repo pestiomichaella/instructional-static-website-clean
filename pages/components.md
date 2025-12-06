@@ -10,13 +10,17 @@ Understanding the major parts of the lathe machine is crucial for anyone looking
 
 ## Major Components
 
+<div class="comp-card-wrapper">
 {% for comp in site.components %}
+
+<div class="comp-card">
 ### [{{ comp.title }}]({{ comp.url | relative_url }})
 **Location:** {{ comp.location }}
 
 {{ comp.function }}
-
+</div>
 {% endfor %}
+</div>
 
 ## Component Organization
 

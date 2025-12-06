@@ -10,13 +10,19 @@ A lathe machine is incredibly versatile and can perform many different operation
 
 ## Available Operations
 
+<div class="op-cards-wrapper">
+
 {% assign sorted_ops = site.operations | sort: "order" %}
 {% for op in sorted_ops %}
+
+<div class="op-card">
 ### [{{ op.title }}]({{ op.url | relative_url }})
-**Difficulty:** {{ op.difficulty | capitalize }}
+**Difficulty:** <span class="difficulty {{ op.difficulty | downcase }}">{{ op.difficulty | capitalize }}</span>
+</div>
 
 {% endfor %}
 
+</div>
 ## Quick Overview
 
 ### Cutting Operations

@@ -1,0 +1,64 @@
+.op-cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.op-card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.325);
+  padding: .5rem 1rem;
+  border-radius: 10px;
+}
+
+.op-card h3 {
+  font-size: 1.5rem;
+}
+
+
+/* .op-wrapper + .op-wrapper { */
+/*   margin-top: 1rem; */
+/* } */
+
+
+/* operation cards  */
+.difficulty {
+  padding: .2rem .5rem;
+  border-radius: 10px;
+}
+
+.difficulty.beginner {
+  background-color: lightgreen;
+  color: green;
+}
+
+.difficulty.intermediate {
+  background-color: orange;
+  color: white;
+}
+
+.difficulty.advanced {
+  background-color: crimson;
+  color: white;
+}
+
+.op-card {
+  border-top: 5px solid;
+  transition: border .2s ease, transform .2s ease, box-shadow .2s ease;
+}
+
+.op-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 12px rgba(0, 0, 0, 0.325);
+}
+
+.op-card:has(.beginner):hover {
+  border-color: lawngreen;
+}
+
+.op-card:has(.intermediate):hover {
+  border-color: darkorange;
+}
+
+.op-card:has(.advanced):hover {
+  border-color: red;
+}
