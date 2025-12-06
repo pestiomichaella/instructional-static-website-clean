@@ -3,7 +3,7 @@ layout: home
 title: Lathe Machine Instructional Guide
 permalink: /
 ---
-
+<div class="content-wrapper">
 # Welcome to the Lathe Machine Instructional Guide
 
 This comprehensive resource provides everything you need to understand, operate, and maintain lathe machines safely and effectively.
@@ -35,3 +35,4 @@ Choose your path:
 | [About]({{ '/pages/about.html' | relative_url }}) | How to use this guide |
 
 **Start with Safety, then choose your learning path!**
+</div>

@@ -36,12 +36,14 @@ Parting, also known as cutting off, is the process of cutting a piece off a work
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece
-2. Install parting tool at center height
-3. Turn on lathe and set speed
-4. Position tool perpendicular at cut location
-5. Feed tool to cut through workpiece
-6. Stop lathe and remove parted section
+1. Mount the workpiece in the chuck with sufficient length extending for the parting operation.
+2. Install the parting tool in the tool post, ensuring that it is perpendicular to the workpiece axis and set at center height.
+3. Select a relatively low to moderate spindle speed, according to material and tool recommendations.
+4. Start the spindle and position the parting tool at the desired cutting location.
+5. Feed the tool gradually into the rotating workpiece using a steady and controlled motion.
+6. Apply cutting fluid, if appropriate, to improve tool life and surface finish.
+7. Continue feeding until the workpiece is nearly cut through, then reduce feed to avoid sudden separation.
+8. Allow the separated part to fall safely or support it, stop the machine, and deburr the cut surfaces.
 
 ## Safety and Precautions
 

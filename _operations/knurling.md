@@ -37,12 +37,14 @@ Knurling is the process of creating a regular, cross-patterned texture on the su
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece
-2. Mount knurling tool and set center height
-3. Run lathe at low speed
-4. Feed knurling tool onto workpiece surface
-5. Apply consistent pressure to emboss texture
-6. Stop lathe and check pattern
+1. Mount the workpiece securely in the chuck and ensure adequate support if the workpiece is long.
+2. Install the knurling tool (with the required pattern) in the tool post, aligning it perpendicular to the workpiece axis.
+3. Set the knurling wheels at or slightly below center height.
+4. Select a moderate spindle speed appropriate for knurling operations.
+5. Position the knurling wheels against the rotating workpiece and apply sufficient transverse feed to impress the pattern uniformly.
+6. Maintain steady pressure and feed the tool along the length of the area to be knurled.
+7. After achieving the desired pattern depth, retract the knurling tool and stop the machine.
+8. Inspect the knurled surface for uniformity and remove any burrs if necessary.
 
 ## Best Practices
 

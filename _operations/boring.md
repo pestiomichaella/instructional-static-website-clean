@@ -37,13 +37,14 @@ Boring involves enlarging a hole that has already been drilled or cast. The proc
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece with pre-drilled hole
-2. Mount boring tool in tool post
-3. Align tool at hole centerline
-4. Start lathe and set appropriate speed
-5. Feed boring tool inside hole for precision enlargement
-6. Take multiple light passes
-7. Stop lathe and inspect hole
+1. Ensure a pilot hole of adequate diameter has been drilled in the workpiece.
+2. Mount the workpiece securely in the chuck and install the boring bar in the tool post, minimizing tool overhang.
+3. Set the cutting edge of the boring tool at the workpiece center height.
+4. Select appropriate spindle speed and feed rate for internal cutting.
+5. Start the spindle and feed the boring tool into the existing hole to the required depth.
+6. Perform roughing passes to enlarge the hole close to the specified diameter.
+7. Perform one or more finishing passes with reduced depth of cut to obtain the final diameter and surface finish.
+8. Stop the machine and verify the internal diameter using suitable measuring instruments.
 
 ## Important Techniques
 

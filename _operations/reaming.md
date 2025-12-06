@@ -37,12 +37,13 @@ Reaming is the process of finishing and sizing a hole to a precise diameter. A r
 
 ## Step-by-Step Procedure
 
-1. Drill undersized hole
-2. Mount reamer in tailstock
-3. Align reamer
-4. Start lathe at slow speed
-5. Feed reamer to finish hole
-6. Retract tool and stop lathe
+1. Drill a hole slightly smaller than the final required diameter, following standard drill size recommendations for reaming.
+2. Mount the reamer in the tailstock chuck or suitable holder and align the tailstock with the spindle axis.
+3. Select a relatively low spindle speed and apply appropriate cutting fluid.
+4. Start the spindle and advance the reamer steadily into the rotating workpiece, avoiding excessive force.
+5. Allow the reamer to cut with a continuous motion until it passes through the entire hole or reaches the specified depth.
+6. Withdraw the reamer carefully while the spindle is still rotating or after stopping, according to shop practice and tool recommendations.
+7. Clean the hole and verify the final diameter and surface finish using appropriate measuring instruments.
 
 ## Important Points
 

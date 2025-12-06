@@ -36,11 +36,12 @@ Chamfering involves cutting a bevel or angled edge on the workpiece. On a lathe,
 
 ## Step-by-Step Procedure
 
-1. Install chamfering tool and set height
-2. Secure workpiece
-3. Start lathe and adjust speed
-4. Feed tool to cut bevel edge
-5. Stop lathe and inspect chamfer
+1. Mount the workpiece securely in the chuck and identify the edge or shoulder where the chamfer is required.
+2. Install a chamfering tool or adjust a turning tool to the desired chamfer angle (commonly 45 degrees).
+3. Set the tool tip at center height and select appropriate spindle speed.
+4. Start the spindle and position the tool at the edge of the workpiece.
+5. Feed the tool gradually into the workpiece at the set angle to produce the chamfer of the specified length or dimension.
+6. Retract the tool, stop the machine, and verify the chamfer size using suitable measuring devices.
 
 ## Guidelines
 

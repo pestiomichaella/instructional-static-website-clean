@@ -37,14 +37,13 @@ Facing involves cutting the end of the workpiece to produce a flat surface. It's
 
 ## Step-by-Step Procedure
 
-1. Secure workpiece and ensure it runs true
-2. Secure the facing tool (tool bit) into the tool post
-3. Install facing tool at center height
-4. Turn on lathe and adjust speed
-5. Position tool at face edge
-6. Feed tool across face toward center
-7. Repeat if needed for smooth flat surface
-8. Turn off lathe and verify flatness
+1. Mount the workpiece securely in the chuck so that the end to be faced is accessible.
+2. Install a facing tool in the tool post and set the tool tip at the center height of the workpiece.
+3. Select appropriate spindle speed and feed rate based on material and tool recommendations.
+4. Start the spindle and position the tool near the outer edge of the workpiece end face.
+5. Feed the tool gradually towards the center of the rotating workpiece using the cross-slide to remove material across the face.
+6. Repeat passes as needed until the entire face is flat and the required length is achieved.
+7. Stop the machine and verify flatness and length using appropriate measuring tools.
 
 ## Key Points
 
