@@ -23,7 +23,7 @@
 /* operation cards  */
 .difficulty {
   padding: .2rem .5rem;
-  border-radius: 10px;
+  border-radius: 50px;
 }
 
 .difficulty.beginner {

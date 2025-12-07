@@ -7,12 +7,15 @@ body {
 
 .page-content-article,
 .post.operation,
-.operation-nav {
+.operation-nav,
+.post.component,
+.component-nav {
     padding-inline: 1.5rem;
     max-width: 1200px;
     margin-inline: auto;
 }
 
-.post.operation {
-  margin-top: 2rem;
+.post.operation,
+.post.component {
+  padding-top: 2rem;
 }
