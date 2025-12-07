@@ -4,6 +4,7 @@ title: Reaming
 order: 13
 difficulty: intermediate
 animation: /assets/models/model.glb
+video: /assets/videos/operations/reaming.mp4
 tools:
   - Reamer tool
   - Tailstock
@@ -18,14 +19,12 @@ related_components:
 
 Reaming is the process of finishing and sizing a hole to a precise diameter. A reamer tool is slowly fed into a pre-drilled hole while the workpiece rotates.
 
-<div class="media-container model3d-container">
-  <model-viewer 
-    src="{{ page.animation | relative_url }}"
-    alt="Threading Operation Animation"
-    auto-rotate
-    camera-controls
-    style="width: 100%; height: 500px;">
-  </model-viewer>
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Purpose

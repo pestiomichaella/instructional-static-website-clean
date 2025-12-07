@@ -20,15 +20,7 @@ related_components:
 
 Threading is a precise operation to create threads on the outer or inner surface of a workpiece. This is achieved by moving a threading tool at a predetermined feed rate along the rotating workpiece, matching the pitch of the desired thread.
 
-<div class="media-container model3d-container">
-  <model-viewer 
-    src="{{ page.animation | relative_url }}"
-    alt="Threading Operation Animation"
-    auto-rotate
-    camera-controls
-    style="width: 100%; height: 500px;">
-  </model-viewer>
-</div>
+
 
 ## Video Guide
 <div class="media-container video-container">

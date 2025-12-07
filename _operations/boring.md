@@ -4,6 +4,7 @@ title: Boring
 order: 4
 difficulty: intermediate
 animation: /assets/models/model.glb
+video: /assets/videos/operations/boring.mp4
 tools:
   - Boring tool
   - Tool post
@@ -18,14 +19,12 @@ related_components:
 
 Boring involves enlarging a hole that has already been drilled or cast. The process is used to achieve greater accuracy in diameter and to attain a smooth internal finish.
 
-<div class="media-container model3d-container">
-  <model-viewer 
-    src="{{ page.animation | relative_url }}"
-    alt="Threading Operation Animation"
-    auto-rotate
-    camera-controls
-    style="width: 100%; height: 500px;">
-  </model-viewer>
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Purpose of Boring

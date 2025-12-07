@@ -4,6 +4,7 @@ title: Knurling
 order: 7
 difficulty: beginner
 animation: /assets/models/model.glb
+video: /assets/videos/operations/knurling.mp4
 tools:
   - Knurling tool
   - Tool post
@@ -18,14 +19,12 @@ related_components:
 
 Knurling is the process of creating a regular, cross-patterned texture on the surface of a workpiece. This is typically done to provide a better grip on the finished part.
 
-<div class="media-container model3d-container">
-  <model-viewer 
-    src="{{ page.animation | relative_url }}"
-    alt="Threading Operation Animation"
-    auto-rotate
-    camera-controls
-    style="width: 100%; height: 500px;">
-  </model-viewer>
+## Video Guide
+<div class="media-container video-container">
+  <video width="100%" height="auto" controls class="responsive-media">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Applications
