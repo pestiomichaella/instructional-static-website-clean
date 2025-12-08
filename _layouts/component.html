@@ -14,13 +14,6 @@ layout: default
     {% endif %}
   </header>
 
-  {% if page.image %}
-    <figure class="component-figure">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }} diagram">
-      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
-    </figure>
-  {% endif %}
-
   <div class="post-content">
     {{ content }}
   </div>
