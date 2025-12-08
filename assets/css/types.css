@@ -1,0 +1,15 @@
+.type-card-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.type-card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.325);
+  padding: .5rem 1rem;
+  border-radius: 10px;
+}
+
+.type-card h3 {
+  font-size: 1.5rem;
+}
