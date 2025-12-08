@@ -53,6 +53,9 @@ collections:
   components:
     output: true 
     permalink: /:collection/:name/
+  types:
+    output: true 
+    permalink: /:collection/:name/
 
 defaults:
   - scope:
