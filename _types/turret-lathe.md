@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Turret Lathe
 image: /assets/images/types/turret-lathe-machine.jpg
 permalink: /types/turret-lathe/
 ---
 
-# Turret Lathe
+<!-- # Turret Lathe -->
 
 A Turret Lathe is a specialized version of the engine lathe built for high-volume production. It is equipped with a rotating tool holder, called a turret, which allows multiple cutting tools to be mounted at once. This essential feature enables extremely fast tool changes without the need for manual adjustments between steps. Turret lathes are therefore commonly used in settings where efficient, rapid manufacturing of identical parts is crucial.
 
@@ -34,3 +34,4 @@ A Turret Lathe is a specialized version of the engine lathe built for high-volum
 - Mass production facilities
 - Production-focused workshops
 - Industries requiring speed and consistency
+

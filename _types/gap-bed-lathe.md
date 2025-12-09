@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Gap Bed Lathe
 image: /assets/images/types/gap bed lathe.jpg
 permalink: /types/gap-bed-lathe/
 ---
 
-# Gap Bed Lathe
+<!-- # Gap Bed Lathe -->
 
 The Gap Bed Lathe is designed with a unique feature: a section of the bed near the headstock that can be removed. This removable gap allows the machine to accommodate and spin workpieces with a much larger diameter than a standard lathe of the same size. This adaptability makes the gap bed lathe a versatile choice for general-purpose machining where material sizes often vary.
 
@@ -34,3 +34,4 @@ The Gap Bed Lathe is designed with a unique feature: a section of the bed near t
 - Industries with varying material sizes
 - Flexible manufacturing
 - Adaptable production environments
+

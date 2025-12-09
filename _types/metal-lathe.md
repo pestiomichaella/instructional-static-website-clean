@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Metal Lathe
 image: /assets/images/types/metal lathe.jpg
 permalink: /types/metal-lathe/
 ---
 
-# Metal Lathe
+<!-- # Metal Lathe -->
 
 Metal Lathe is a strong machine specifically built to cut and shape metal parts. It possesses the necessary power and rigidity to handle hard materials like steel and bronze without excessive vibration. This machine is essential in general workshops and factories for machining parts used in cars, airplanes, and heavy machinery. While capable of high precision, its primary purpose is robust metal removal.
 
@@ -34,3 +34,4 @@ Metal Lathe is a strong machine specifically built to cut and shape metal parts.
 - Factories and industrial settings
 - Metal component fabrication
 - High-strength material machining
+
