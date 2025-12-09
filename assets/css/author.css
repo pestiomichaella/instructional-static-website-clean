@@ -1,0 +1,209 @@
+/* Author Page Styling */
+.author-content {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.author-content p {
+  color: #546e7a;
+  font-size: 1.05rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+}
+
+/* Authors Container */
+.authors-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2.5rem;
+  max-width: 1200px;
+  margin: 0 auto 3rem;
+  padding: 0 1.5rem;
+}
+
+/* Author Card */
+.author-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  border-top: 5px solid #3f51b5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 2rem 1.5rem;
+}
+
+.author-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+  border-top-color: #ff6f00;
+}
+
+/* Author Image */
+.author-image {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  overflow: hidden;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-avatar {
+  width: 100%;
+  height: 100%;
+}
+
+/* Author Info */
+.author-info {
+  width: 100%;
+}
+
+.author-card h3 {
+  font-size: 1.5rem;
+  color: #1a237e;
+  margin: 0 0 1.5rem 0;
+  font-weight: 700;
+}
+
+.author-email,
+.author-phone {
+  color: #546e7a;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0 0 1rem 0;
+}
+
+.author-email strong,
+.author-phone strong {
+  color: #3f51b5;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.author-email a,
+.author-phone a {
+  color: #ff6f00;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.author-email a:hover,
+.author-phone a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+  .authors-container {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+  }
+
+  .author-image {
+    width: 130px;
+    height: 130px;
+  }
+
+  .author-card h3 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .authors-container {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    padding: 0 1rem;
+  }
+
+  .author-card {
+    padding: 1.5rem 1rem;
+  }
+
+  .author-image {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 1.2rem;
+  }
+
+  .author-card h3 {
+    font-size: 1.2rem;
+  }
+
+  .author-email,
+  .author-phone {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .authors-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .author-image {
+    width: 110px;
+    height: 110px;
+  }
+
+  .author-card {
+    padding: 1.5rem;
+  }
+
+  .author-card h3 {
+    font-size: 1.1rem;
+  }
+}
+
+/* Animation */
+@media (prefers-reduced-motion: no-preference) {
+  .author-card {
+    animation: fadeInUp 0.6s ease-out;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Navigation */
+.author-nav {
+  margin: 3rem 0 1rem 0;
+  padding-top: 2rem;
+  border-top: 2px solid #eceff1;
+  text-align: center;
+}
+
+.author-nav .back-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #3f51b5;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+  font-weight: 600;
+}
+
+.author-nav .back-link:hover {
+  background: #283593;
+  text-decoration: none;
+}

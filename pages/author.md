@@ -1,0 +1,97 @@
+---
+layout: author
+title: Authors
+permalink: /pages/author.html
+---
+
+# Meet Our Authors
+
+This instructional material was created by a dedicated team of professionals committed to providing comprehensive lathe machine education.
+
+<div class="authors-container">
+
+<div class="author-card">
+  <div class="author-image">
+    <svg class="placeholder-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="100" fill="#e0e0e0"/>
+      <circle cx="50" cy="35" r="15" fill="#9e9e9e"/>
+      <ellipse cx="50" cy="70" rx="20" ry="18" fill="#9e9e9e"/>
+    </svg>
+  </div>
+  <div class="author-info">
+    <h3>Ryan M. Arnaldo</h3>
+    <p class="author-email">
+      <strong>Email:</strong><br>
+      ryanarnaldo26@gmail.com
+    </p>
+    <p class="author-phone">
+      <strong>Contact:</strong><br>
+      09703083268
+    </p>
+  </div>
+</div>
+
+<div class="author-card">
+  <div class="author-image">
+    <svg class="placeholder-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="100" fill="#e0e0e0"/>
+      <circle cx="50" cy="35" r="15" fill="#9e9e9e"/>
+      <ellipse cx="50" cy="70" rx="20" ry="18" fill="#9e9e9e"/>
+    </svg>
+  </div>
+  <div class="author-info">
+    <h3>Jonas A. Mendez</h3>
+    <p class="author-email">
+      <strong>Email:</strong><br>
+      jonasmendez236@gmail.com
+    </p>
+    <p class="author-phone">
+      <strong>Contact:</strong><br>
+      09158723925
+    </p>
+  </div>
+</div>
+
+<div class="author-card">
+  <div class="author-image">
+    <svg class="placeholder-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="100" fill="#e0e0e0"/>
+      <circle cx="50" cy="35" r="15" fill="#9e9e9e"/>
+      <ellipse cx="50" cy="70" rx="20" ry="18" fill="#9e9e9e"/>
+    </svg>
+  </div>
+  <div class="author-info">
+    <h3>Gelai Joy M. Nape</h3>
+    <p class="author-email">
+      <strong>Email:</strong><br>
+      gelainape1125@gmail.com
+    </p>
+    <p class="author-phone">
+      <strong>Contact:</strong><br>
+      09076375549
+    </p>
+  </div>
+</div>
+
+<div class="author-card">
+  <div class="author-image">
+    <svg class="placeholder-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100" height="100" fill="#e0e0e0"/>
+      <circle cx="50" cy="35" r="15" fill="#9e9e9e"/>
+      <ellipse cx="50" cy="70" rx="20" ry="18" fill="#9e9e9e"/>
+    </svg>
+  </div>
+  <div class="author-info">
+    <h3>Michaella Q. Pestio</h3>
+    <p class="author-email">
+      <strong>Email:</strong><br>
+      pestiomichaella001@gmail.com
+    </p>
+    <p class="author-phone">
+      <strong>Contact:</strong><br>
+      09754771391
+    </p>
+  </div>
+</div>
+
+</div>
