@@ -1,11 +1,10 @@
 ---
-layout: type
+layout: types
 title: Engine Lathe (Center Lathe)
 image: /assets/images/types/engine-lathe-machine.png
-
 ---
 
-# Engine Lathe (Center Lathe)
+<!-- # Engine Lathe (Center Lathe) -->
 
 The Engine Lathe (Center Lathe) is the most common and versatile type, serving as the foundational model for all turning operations. It can perform nearly all general turning tasks and remains widely used for single-part jobs or small production batches. Its design includes manual and automatic carriage feeds, giving the operator full control over the cutting process. This robust machine is the standard reference point for all other lathe variations.
 
@@ -32,3 +31,4 @@ The Engine Lathe (Center Lathe) is the most common and versatile type, serving a
 - Small batch manufacturing
 - Educational settings
 - General workshops and maintenance
+

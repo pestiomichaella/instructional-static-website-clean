@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: CNC Lathe
 image: /assets/images/types/cnc-lathe-machine.png
 permalink: /types/cnc-lathe/
 ---
 
-# CNC Lathe
+<!-- # CNC Lathe -->
 
 CNC (Computer Numerical Control) Lathe is a modern machine run by a computer program. A computer precisely directs the tool movements, allowing it to produce complex shapes and highly accurate parts repeatedly. This reliance on programming makes it the machine of choice for high-volume mass production where consistent quality is essential. CNC lathes are highly efficient and reduce the potential for human error.
 
@@ -34,3 +34,4 @@ CNC (Computer Numerical Control) Lathe is a modern machine run by a computer pro
 - Aerospace components
 - Medical device manufacturing
 - Industries requiring consistent quality
+

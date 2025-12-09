@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Vertical Lathe
 image: /assets/images/types/vertical lathe.jpg
 permalink: /types/vertical-lathe/
 ---
 
-# Vertical Lathe
+<!-- # Vertical Lathe -->
 
 Vertical Lathes (or Vertical Turret Lathes) are characterized by the vertical orientation of the spindle. This design is particularly necessary for safely handling large, heavy workpieces that would be difficult to stabilize on a horizontal machine. Vertical lathes are commonly used in heavy industries for tasks such as boring, turning, and facing large components like turbine disks. This setup uses gravity to assist in securely seating the massive material.
 
@@ -34,3 +34,4 @@ Vertical Lathes (or Vertical Turret Lathes) are characterized by the vertical or
 - Heavy machinery parts
 - Large bore work
 - Industries handling large parts
+

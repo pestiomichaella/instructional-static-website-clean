@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Capstan Lathe
 image: /assets/images/types/capstan.jpg
 permalink: /types/capstan-lathe/
 ---
 
-# Capstan Lathe
+<!-- # Capstan Lathe -->
 
 Capstan Lathes are similar in function to turret lathes but are generally used for smaller components and faster operation. They feature a sliding drum, or capstan, that holds the tools and facilitates quick, easy changes. This design ensures precision and efficiency for medium to large-scale production work. Capstan lathes are favored when a specific sequence of short operations must be repeated quickly.
 
@@ -14,7 +14,6 @@ Capstan Lathes are similar in function to turret lathes but are generally used f
        alt="[Image Description]"
        class="responsive-media">
 </div>
-
 
 ## Key Characteristics
 
@@ -35,3 +34,4 @@ Capstan Lathes are similar in function to turret lathes but are generally used f
 - Industries requiring speed
 - Quick-change operations
 - High-frequency manufacturing
+

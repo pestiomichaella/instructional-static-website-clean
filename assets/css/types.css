@@ -6,8 +6,15 @@
 
 .type-card {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.325);
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.type-card p:last-child {
+  margin: 0;
 }
 
 .type-card h3 {
