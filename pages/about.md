@@ -107,6 +107,6 @@ This guide is for educational purposes only. Always follow your facility's safet
 
 ---
 
-**Last Updated:** November 2025  
+**Last Updated:** December 2025  
 **Version:** 1.0  
 **Status:** Educational Resource

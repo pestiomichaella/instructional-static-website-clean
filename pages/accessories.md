@@ -103,7 +103,8 @@ This attachment mounts on the cross slide and positions the tool post at special
 
 # Assessment
 
-Part VI: Accessories 
+### Part VI: Accessories
+ 
 1.	Differentiate between the function and mounting location of a Steady Rest and a Follower Rest.
 
 2.	A technician needs to hold an oddly shaped, non-symmetrical casting for machining. Which type of chuck should be used and why?
