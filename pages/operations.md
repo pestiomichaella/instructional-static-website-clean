@@ -55,7 +55,7 @@ The operation you choose depends on:
 
 Part V: Common Operations
 
-A. Instructions: Choose the best answer that describes the required operation, tool, or outcome for the given scenario.
+**A. Instructions:** Choose the best answer that describes the required operation, tool, or outcome for the given scenario.
 
 1.	A machine shop needs to improve the surface quality and appearance of a turned brass spindle by smoothing out minor imperfections without removing significant material. Which operation is best suited for this final stage? 
     A. Boring
@@ -87,7 +87,7 @@ A. Instructions: Choose the best answer that describes the required operation, t
     C. The Lead Screw 
     D. The Tailstock
     
-B. Instructions: Answer the following questions with specific technical details.
+**B. Instructions:** Answer the following questions with specific technical details.
 
 1.	Besides creating a flat starting surface, what is the other critical function of Facing in preparing a workpiece for subsequent operations like drilling or turning? 11
 

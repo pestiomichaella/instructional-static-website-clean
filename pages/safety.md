@@ -99,7 +99,7 @@ Always wear appropriate protective gear when working on a lathe.
 
 # Assessment
 
-Part II: Safety
+### Part II: Safety
 
 1.	An operator is polishing a workpiece with a rag while wearing loose, untucked sleeves. The chuck key is still lightly resting in the headstock after the setup.
     a.	Identify the two most immediate and critical safety hazards.

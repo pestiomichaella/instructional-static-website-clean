@@ -136,7 +136,7 @@ The lathe machine continues to evolve:
 
 # Assessment
 
-Part I: History
+### Part I: History
 
 1.	A manufacturing firm needs to produce 1,000 perfectly cylindrical shafts, 500 threaded bolts, and 200 components with complex, non-threaded grooves. Explain why the lathe machine is the primary and most efficient machine for this diverse production order, citing the core principle of its operation.
 

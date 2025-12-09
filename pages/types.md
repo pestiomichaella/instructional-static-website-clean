@@ -25,7 +25,7 @@ Lathe machines are essential tools, but they are designed in many different ways
 
 # Assessment
 
-## Part IV: Types
+### Part IV: Types
 
 **Instructions:** Match the manufacturing scenario (1-5) with the most appropriate lathe type (A-E) by writing the corresponding letter.
 

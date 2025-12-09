@@ -54,8 +54,11 @@ Understanding the major parts of the lathe machine is crucial for anyone looking
 - **Apron**: Houses control mechanisms
 
 # Assessment
-Part III: Components 
-Instructions: Choose the best answer for the multiple-choice questions or complete the sentence with the most appropriate component.
+
+### Part III: Components
+
+**Instructions:** Choose the best answer for the multiple-choice questions or complete the sentence with the most appropriate component.
+
 1.	Which set of components is directly responsible for carrying and precisely positioning the cutting tool for both longitudinal and cross-feed movements? 
     A. Headstock, Spindle, and Chuck 
     B. Bed, Lead Screw, and Feed Rod 
