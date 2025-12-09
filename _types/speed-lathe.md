@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Speed Lathe
 image: /assets/images/types/speed lathe.jpg
 permalink: /types/speed-lathe/
 ---
 
-# Speed Lathe
+<!-- # Speed Lathe -->
 
 The Speed Lathe features a simpler design that includes a powerful, high-speed spindle but lacks a lead screw or gear box. This type of lathe is primarily used for finishing, polishing, and sanding operations, rather than deep material removal. It focuses on high-speed rotation to achieve a superior surface finish. Speed lathes are particularly useful in applications like metal polishing and certain stages of woodturning where surface quality is paramount.
 
@@ -34,3 +34,4 @@ The Speed Lathe features a simpler design that includes a powerful, high-speed s
 - Surface quality enhancement
 - Polishing work
 - Industries requiring superior finish
+

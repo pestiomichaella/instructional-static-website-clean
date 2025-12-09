@@ -6,10 +6,37 @@
 
 .comp-card {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.325);
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.comp-card p {
+  margin: 0;
+}
+
+.comp-card p:last-child {
+  margin-top: 1rem;
 }
 
 .comp-card h3 {
   font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.image-container {
+  padding: 1rem;
+  display: grid;
+  justify-content: center;
+}
+
+.image-container p {
+  display: inline;
+}
+
+.image-container p img {
+  max-width: 700px;
+  width: 100%;
 }

@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Vertical Turret Lathe (VTL)
 image: /assets/images/types/vertical turret lathe.jpg
 permalink: /types/vertical-turret-lathe/
 ---
 
-# Vertical Turret Lathe (VTL)
+<!-- # Vertical Turret Lathe (VTL) -->
 
 The Vertical Turret Lathe (VTL) is another term used to describe a vertical lathe, emphasizing its vertical spindle and tool-holding turret. This configuration is essential for handling very large, heavy components found in sectors like aerospace and shipbuilding. VTLs can perform high-precision operations, including boring, turning, and facing, on massive parts with maximum stability.
 
@@ -34,3 +34,4 @@ The Vertical Turret Lathe (VTL) is another term used to describe a vertical lath
 - High-precision heavy work
 - Industries requiring extreme stability
 - Large-scale industrial applications
+

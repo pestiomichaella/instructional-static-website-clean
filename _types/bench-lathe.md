@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Bench Lathe
 image: /assets/images/types/bench-lathe-machine.jpg
 permalink: /types/bench-lathe/
 ---
 
-# Bench Lathe
+<!-- # Bench Lathe -->
 
 Bench Lathes are smaller machines designed to be permanently mounted on a workbench or tabletop. They specialize in precision work on small components, making them ideal for crafting intricate components in fields like jewelry making and watchmaking. Despite their compact size, bench lathes can perform a variety of operations with high accuracy. Their portability and precision are key advantages for delicate tasks.
 
@@ -14,7 +14,6 @@ Bench Lathes are smaller machines designed to be permanently mounted on a workbe
        alt="[Image Description]"
        class="responsive-media">
 </div>
-
 
 ## Key Characteristics
 
@@ -35,3 +34,4 @@ Bench Lathes are smaller machines designed to be permanently mounted on a workbe
 - Delicate work
 - Intricate detail work
 - Artistic components
+

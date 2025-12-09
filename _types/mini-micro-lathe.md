@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Mini/Micro Lathe
 image: /assets/images/types/mini lathe.jpg
 permalink: /types/mini-micro-lathe/
 ---
 
-# Mini/Micro Lathe
+<!-- # Mini/Micro Lathe -->
 
 Mini or Micro Lathes are compact machines designed for small-scale projects, educational purposes, or hobbyist work. Their smaller size makes them perfectly suited for use in limited spaces, such as home workshops or small studios. Despite their reduced footprint, these lathes are fully capable of performing operations like turning, cutting, and drilling. They are highly valued by educators and hobbyists for their versatility and ease of operation on small components.
 
@@ -34,3 +34,4 @@ Mini or Micro Lathes are compact machines designed for small-scale projects, edu
 - Prototype development
 - Jewelry making
 - Small part manufacturing
+

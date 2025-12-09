@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Wood Lathe
 image: /assets/images/types/woodlathe.jpg
 permalink: /types/wood-lathe/
 ---
 
-# Wood Lathe
+<!-- # Wood Lathe -->
 
 As the name clearly states, the Wood Lathe is specifically designed for woodworking projects. It is used for shaping wood into various forms, such as table legs, bowls, and artistic sculptures. These machines operate at higher rotational speeds than metal lathes due to the difference in material hardness. Wood lathes differ significantly from metalworking lathes in both their construction and the cutting tools they employ.
 
@@ -34,3 +34,4 @@ As the name clearly states, the Wood Lathe is specifically designed for woodwork
 - Decorative items
 - Functional wooden components
 - Artistic expression
+

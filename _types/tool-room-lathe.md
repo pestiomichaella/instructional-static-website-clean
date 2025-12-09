@@ -1,11 +1,11 @@
 ---
-layout: type
+layout: types
 title: Tool Room Lathe
 image: /assets/images/types/toolroom-lathe-machine.png
 permalink: /types/tool-room-lathe/
 ---
 
-# Tool Room Lathe
+<!-- # Tool Room Lathe -->
 
 A Tool Room Lathe is designed for work that demands maximum precision and fine detail. These machines offer more settings and adjustments than standard lathes, granting the operator superior control over the machining process. They are primarily used for creating highly accurate items, such as specialized tools, dies, and gauges. The accuracy and smooth operation of these lathes set the standard for precision in the workshop.
 
@@ -34,3 +34,4 @@ A Tool Room Lathe is designed for work that demands maximum precision and fine d
 - Specialized equipment production
 - Research and development
 - Industries requiring tight tolerances
+
