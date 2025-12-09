@@ -54,3 +54,18 @@ Understanding the major parts of the lathe machine is crucial for anyone looking
 ### Operational Section
 
 - **Apron**: Houses control mechanisms
+
+# Assessment
+Part III: Components 
+Instructions: Choose the best answer for the multiple-choice questions or complete the sentence with the most appropriate component.
+1.	Which set of components is directly responsible for carrying and precisely positioning the cutting tool for both longitudinal and cross-feed movements? 
+    A. Headstock, Spindle, and Chuck 
+    B. Bed, Lead Screw, and Feed Rod 
+    C. Carriage, Cross Slide, and Compound Rest
+    D. Tailstock, Tool Post, and Apron
+
+2.	The ______ is primarily used for precise threading operations , while the adjacent _______  is used for automatic movement of the carriage for non-threading cuts.
+
+3.	The main purpose of the ______ is to support the far end of long workpieces to prevent bending , but it also holds tools like drills for making holes.
+
+4.	The _______ is the component that must be supremely rigid to prevent shaking that could ruin the work's accuracy.

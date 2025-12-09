@@ -102,3 +102,29 @@ Designed to machine curved surfaces such as:
 - Spherical shapes
 
 This attachment mounts on the cross slide and positions the tool post at special angles relative to the workpiece for accurate shaping of spherical profiles.
+
+# Assessment
+
+Part VI: Accessories 
+1.	Differentiate between the function and mounting location of a Steady Rest and a Follower Rest.
+
+2.	A technician needs to hold an oddly shaped, non-symmetrical casting for machining. Which type of chuck should be used and why?
+
+3.	What is the specific function of a mandrel, and for what type of workpiece is it primarily used?
+
+4.	Describe the unique design and primary application of the Frictionless Centre found in the tailstock.
+
+5.	Explain when an operator would choose to use a Face Plate instead of a chuck to secure a workpiece.
+
+6.	A standard engine lathe cannot natively perform milling or gear-cutting operations. Identify the two attachments that enable the lathe to perform the following:
+    a.	Cutting keyways and T-slots
+    b.	Cutting bevel and spur gears
+
+7.	Describe the physical mechanism and its components that the Taper Turning Attachment uses to achieve a precise tapered cut, specifically mentioning how it relates to the cross slide. 
+
+8.	The instructions for the Grinding Attachment mention that the lathe bedways must be protected by cloth covers, and water/oil must collect grinding residue. Why are these precautions necessary? 
+
+9.	The Spherical Turning Attachment is used to machine curved surfaces (concave, convex, and spherical). Where is this attachment mounted, and how does it position the tool to achieve these shapes? 
+
+10.	What is the fundamental difference in purpose between a lathe attachment and an accessory?
+

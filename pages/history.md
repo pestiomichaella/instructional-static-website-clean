@@ -135,3 +135,11 @@ The lathe machine continues to evolve:
 - Sustainability and reduced waste
 - Industry 4.0 integration
 - Precision beyond current capability
+
+# Assessment
+
+Part I: History
+
+1.	A manufacturing firm needs to produce 1,000 perfectly cylindrical shafts, 500 threaded bolts, and 200 components with complex, non-threaded grooves. Explain why the lathe machine is the primary and most efficient machine for this diverse production order, citing the core principle of its operation.
+
+2.	Henry Maudslay is credited as the "father of the modern lathe". Discuss the specific significance of his improvements in the early 1800s in the context of global manufacturing and the necessity for "accurate metalworking" that followed.

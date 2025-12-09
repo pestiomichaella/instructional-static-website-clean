@@ -98,3 +98,21 @@ Always wear appropriate protective gear when working on a lathe.
 - Document all incidents and near-misses
 - Participate in safety training programs
 - Follow all facility safety procedures
+
+# Assessment
+
+Part II: Safety
+
+1.	An operator is polishing a workpiece with a rag while wearing loose, untucked sleeves. The chuck key is still lightly resting in the headstock after the setup.
+    a.	Identify the two most immediate and critical safety hazards.
+    b.	Propose the corrective action for each hazard based on the SOP and safety guidelines.
+
+2.	A machinist finishes a turning pass, immediately stops the workpiece by quickly reversing the power, and begins measuring the newly machined diameter before the spindle comes to a complete halt.
+    a.	Identify the two SOP violations.
+    b.	Explain why the SOP advises against reversing power to stop the chuck rotation. 
+
+3.	The safety guidelines state that gloves should generally not be worn during machine operation. Explain the underlying risk that wearing gloves introduces, which outweighs the protection they might offer. 
+
+4.	According to the Preparation and Setup SOP, what manual check must the operator perform before turning on the power to prevent machine damage or a workplace accident?
+ 
+5.	Why does the SOP specifically warn against mounting wood that is split or contains knots? 
