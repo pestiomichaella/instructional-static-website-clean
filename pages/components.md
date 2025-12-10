@@ -60,9 +60,13 @@ Understanding the major parts of the lathe machine is crucial for anyone looking
 **Instructions:** Choose the best answer for the multiple-choice questions or complete the sentence with the most appropriate component.
 
 1.	Which set of components is directly responsible for carrying and precisely positioning the cutting tool for both longitudinal and cross-feed movements? 
+    
     A. Headstock, Spindle, and Chuck 
+    
     B. Bed, Lead Screw, and Feed Rod 
+    
     C. Carriage, Cross Slide, and Compound Rest
+    
     D. Tailstock, Tool Post, and Apron
 
 2.	The ______ is primarily used for precise threading operations , while the adjacent _______  is used for automatic movement of the carriage for non-threading cuts.
